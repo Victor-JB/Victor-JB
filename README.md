@@ -1,4 +1,9 @@
 ## Hello there👋 My name is Victor !
+
+<!---
+Victor-JB/Victor-JB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+
 A little about me:
 
 - 🚀 I’m currently a software development contractor working at [AI Camp](https://www.ai-camp.org/).
@@ -8,8 +13,4 @@ A little about me:
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I'm also a competitive gymnast, and my favorite event is pommel horse !
 - 🖥️ P.S. Personal website coming soon !
-
-<!---
-Victor-JB/Victor-JB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
 --->
